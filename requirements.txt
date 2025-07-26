@@ -1,7 +1,12 @@
 streamlit==1.24.1
-torch==2.0.1
-torchvision==0.15.2
-pillow==9.5.0
+pillow<10
+torch==2.5.0
+torchvision==0.16.0
+torchaudio==2.5.0
 matplotlib
 numpy
+Pillow
 scikit-learn
+seaborn
+pandas
+opencv-python
